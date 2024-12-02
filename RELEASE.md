@@ -4,6 +4,7 @@
 * 支持 Xtream Code
 * 修正 epg 判断
 * 修正 m3u 判断
+* m3u 支持多组 epg 地址
 
 # 手機版 2.6.6
 
@@ -11,3 +12,4 @@
 * 支持 Xtream Code
 * 修正 epg 判断
 * 修正 m3u 判断
+* m3u 支持多组 epg 地址

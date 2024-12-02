@@ -1,5 +1,5 @@
 {
   "code": 265,
-  "name": "1203",
-  "desc": "* [直播]\n* 支持 Xtream Code\n* 修正 epg 判断\n* 修正 m3u 判断"
+  "name": "1203v2",
+  "desc": "* [直播]\n* 支持 Xtream Code\n* 修正 epg 判断\n* 修正 m3u 判断\n* m3u 支持多组 epg 地址"
 }
