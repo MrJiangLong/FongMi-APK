@@ -1,5 +1,5 @@
 {
   "code": 265,
-  "name": "2.6.5",
-  "desc": "* [EXO]\n* 支持 av3a\n* 升級至 1.5.0\n* [點播]\n* 解析回传支持 cookie 栏位"
+  "name": "1202",
+  "desc": "* [直播]\n* 支持 Xtream Code\n* 修正 epg 判断\n* 修正 m3u 判断"
 }
