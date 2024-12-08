@@ -5,6 +5,7 @@
 * 修正 m3u 判断
 * 支持 Xtream Code
 * m3u 支持多组 epg 地址
+* 修正 m3u 断行造成解析错误
 * [EXO]
 * 修正 AC4 声道对应
 * 修正 DASH 播放问题
@@ -16,6 +17,7 @@
 * 修正 m3u 判断
 * 支持 Xtream Code
 * m3u 支持多组 epg 地址
+* 修正 m3u 断行造成解析错误
 * [EXO]
 * 修正 AC4 声道对应
 * 修正 DASH 播放问题
