@@ -1,15 +1,13 @@
-# 電視版 2.7.0
+# 電視版 2.7.1
 
 * [EXO]
-* 修正字幕上下调整
-* 修正 bom 字幕读取
-* [直播]
-* 优化 xml epg 撷取
+* fuck av3a
+* [VOD]
+* config support quickSearch
 
-# 手機版 2.7.0
+# 手機版 2.7.1
 
 * [EXO]
-* 修正字幕上下调整
-* 修正 bom 字幕读取
-* [直播]
-* 优化 xml epg 撷取
+* fuck av3a
+* [VOD]
+* config support quickSearch
