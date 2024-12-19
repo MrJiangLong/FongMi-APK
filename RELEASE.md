@@ -2,6 +2,7 @@
 
 * [EXO]
 * fuck av3a
+* fuck auto decode
 * [VOD]
 * config support quickSearch
 
@@ -9,5 +10,6 @@
 
 * [EXO]
 * fuck av3a
+* fuck auto decode
 * [VOD]
 * config support quickSearch
