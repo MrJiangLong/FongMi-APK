@@ -1,5 +1,5 @@
 {
-  "code": 270,
-  "name": "2.7.0",
-  "desc": "* [EXO]\n* 修正字幕上下调整\n* 修正 bom 字幕读取\n* [直播]\n* 优化 xml epg 撷取"
+  "code": 271,
+  "name": "2.7.1",
+  "desc": "* [EXO]\n* Remove av3a\n* Support auto decode\n* Fix subtitle position\n* [VOD]\n* Config support quickSearch\n* [LIVE]\n* Fix crash"
 }

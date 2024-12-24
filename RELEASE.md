@@ -1,21 +1,21 @@
 # 電視版 2.7.1
 
 * [EXO]
-* fuck av3a
-* fuck auto decode
-* Update to 1.5.1
+* Remove av3a
+* Support auto decode
+* Fix subtitle position
 * [VOD]
-* config support quickSearch
+* Config support quickSearch
 * [LIVE]
 * Fix crash
 
 # 手機版 2.7.1
 
 * [EXO]
-* fuck av3a
-* fuck auto decode
-* Update to 1.5.1
+* Remove av3a
+* Support auto decode
+* Fix subtitle position
 * [VOD]
-* config support quickSearch
+* Config support quickSearch
 * [LIVE]
 * Fix crash

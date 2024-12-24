@@ -1,5 +1,5 @@
 {
-  "code": 270,
-  "name": "1222",
-  "desc": "* [EXO]\n* fuck av3a\n* fuck auto decode\n* Update to 1.5.1\n* [VOD]\n* config support quickSearch\n* [LIVE]\n* Fix crash"
+  "code": 271,
+  "name": "2.7.1",
+  "desc": "* [EXO]\n* Remove av3a\n* Support auto decode\n* Fix subtitle position\n* [VOD]\n* Config support quickSearch\n* [LIVE]\n* Fix crash"
 }
