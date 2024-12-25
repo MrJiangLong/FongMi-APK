@@ -1,21 +1,9 @@
-# 電視版 2.7.1
+# 電視版 2.7.2
 
 * [EXO]
-* Remove av3a
-* Support auto decode
-* Fix subtitle position
-* [VOD]
-* Config support quickSearch
-* [LIVE]
-* Fix crash
+* bypass av3a transcode error
 
-# 手機版 2.7.1
+# 手機版 2.7.2
 
 * [EXO]
-* Remove av3a
-* Support auto decode
-* Fix subtitle position
-* [VOD]
-* Config support quickSearch
-* [LIVE]
-* Fix crash
+* bypass av3a transcode error

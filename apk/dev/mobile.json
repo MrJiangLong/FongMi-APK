@@ -1,5 +1,5 @@
 {
   "code": 271,
-  "name": "2.7.1",
-  "desc": "* [EXO]\n* Remove av3a\n* Support auto decode\n* Fix subtitle position\n* [VOD]\n* Config support quickSearch\n* [LIVE]\n* Fix crash"
+  "name": "1225",
+  "desc": "* [EXO]\n* bypass av3a transcode error"
 }
