@@ -1,5 +1,5 @@
 {
   "code": 271,
-  "name": "1227v2",
+  "name": "1227v3",
   "desc": "* [EXO]\n* Add drm scheme check\n* bypass av3a transcode error\n* [APP]\n* Add Restore\n* Optimize backup\n* Force auto backup\n* Remove auto restore"
 }
