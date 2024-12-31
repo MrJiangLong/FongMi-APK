@@ -1,5 +1,5 @@
 {
-  "code": 271,
-  "name": "2.7.1",
-  "desc": "* [EXO]\n* Remove av3a\n* Support auto decode\n* Fix subtitle position\n* [VOD]\n* Config support quickSearch\n* [LIVE]\n* Fix crash"
+  "code": 272,
+  "name": "2.7.2",
+  "desc": "* [EXO]\n* Add drm scheme check\n* bypass av3a transcode error\n* [VOD]\n* Fix sniffer bug\n* [APP]\n* Add restore\n* Optimize backup\n* Force auto backup\n* Remove auto restore"
 }
