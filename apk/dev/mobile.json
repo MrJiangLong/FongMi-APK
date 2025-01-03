@@ -1,5 +1,5 @@
 {
   "code": 272,
-  "name": "2.7.2",
-  "desc": "* [EXO]\n* Add drm scheme check\n* bypass av3a transcode error\n* [VOD]\n* Fix sniffer bug\n* [APP]\n* Add restore\n* Optimize backup\n* Force auto backup\n* Remove auto restore"
+  "name": "0104",
+  "desc": "* [EXO]\n* Optimize"
 }
