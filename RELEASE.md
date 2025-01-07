@@ -1,19 +1,9 @@
-# 電視版 2.7.3
+# 電視版 2.7.4
 
-* [EXO]
-* Optimize
 * [VOD]
-* Optimize
-* [LIVE]
-* Fix catchup
+* Fix refresh
 
-# 手機版 2.7.3
+# 手機版 2.7.4
 
-* [EXO]
-* Optimize
 * [VOD]
-* Optimize
-* [LIVE]
-* Fix catchup
-* [APP]
-* Fix pip on Android 15
+* Fix refresh
