@@ -1,5 +1,5 @@
 {
-  "code": 274,
-  "name": "2.7.4",
-  "desc": "* [VOD]\n* Fix refresh"
+  "code": 275,
+  "name": "2.7.5",
+  "desc": "* [APP]\n* Fix yt device\n* [EXO]\n* Fix vtt subtitle"
 }

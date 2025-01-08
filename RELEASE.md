@@ -1,9 +1,13 @@
-# 電視版 2.7.4
+# 電視版 2.7.5
 
-* [VOD]
-* Fix refresh
+* [APP]
+* Fix yt device
+* [EXO]
+* Fix vtt subtitle
 
-# 手機版 2.7.4
+# 手機版 2.7.5
 
-* [VOD]
-* Fix refresh
+* [APP]
+* Fix yt device
+* [EXO]
+* Fix vtt subtitle
