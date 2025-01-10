@@ -1,9 +1,9 @@
-# 電視版 2.7.7
+# 電視版 2.7.8
 
-* [LIVE]
-* Catchup support replace
+* [VOD]
+* Fix start time
 
-# 手機版 2.7.7
+# 手機版 2.7.8
 
-* [LIVE]
-* Catchup support replace
+* [VOD]
+* Fix start time
