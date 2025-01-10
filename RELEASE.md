@@ -1,9 +1,9 @@
-# 電視版 2.7.6
+# 電視版 2.7.7
 
-* [EXO]
-* Fuck subtitle
+* [LIVE]
+* Catchup support replace
 
-# 手機版 2.7.6
+# 手機版 2.7.7
 
-* [EXO]
-* Fuck subtitle
+* [LIVE]
+* Catchup support replace
