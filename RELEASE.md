@@ -1,9 +1,9 @@
-# 電視版 2.7.9
+# 電視版 2.8.0
 
-* [VOD]
-* Optimize play state
+* [APP]
+* Optimize error msg
 
-# 手機版 2.7.9
+# 手機版 2.8.0
 
-* [VOD]
-* Optimize play state
+* [APP]
+* Optimize error msg

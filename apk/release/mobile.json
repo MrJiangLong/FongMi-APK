@@ -1,5 +1,5 @@
 {
-  "code": 279,
-  "name": "2.7.9",
-  "desc": "* [VOD]\n* Optimize play state"
+  "code": 280,
+  "name": "2.8.0",
+  "desc": "* [APP]\n* Optimize error msg"
 }
