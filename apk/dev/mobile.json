@@ -1,5 +1,5 @@
 {
-  "code": 278,
-  "name": "2.7.8",
-  "desc": "* [VOD]\n* Fix start time"
+  "code": 279,
+  "name": "2.7.9",
+  "desc": "* [VOD]\n* Optimize play state"
 }

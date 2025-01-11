@@ -1,9 +1,9 @@
-# 電視版 2.7.8
+# 電視版 2.7.9
 
 * [VOD]
-* Fix start time
+* Optimize play state
 
-# 手機版 2.7.8
+# 手機版 2.7.9
 
 * [VOD]
-* Fix start time
+* Optimize play state
